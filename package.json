@@ -3,7 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "bun playwright test",
+    "test:headed": "bun playwright test --headed",
+    "test:ui": "bun playwright test --ui",
+    "report": "bun playwright show-report",
+    "codegen": "bun playwright codegen"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
