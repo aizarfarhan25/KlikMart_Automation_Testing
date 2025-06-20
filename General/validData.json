@@ -1,0 +1,12 @@
+{
+    "SignUpData": {
+        "firstName": "Test",
+        "lastName": "KlikMart",
+        "email": "testklikmart@gmail.com",
+        "password": "Test12345"
+    },
+    "LoginData": {
+        "email": "testklikmart@gmail.com",
+        "password": "Test12345"
+    }
+}
